@@ -7,3 +7,4 @@ public class GradesApplication {
  SpringApplication.run(GradesApplication.class, args);
  }
 }
+
